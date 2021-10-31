@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="media">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/template/assets/media/bootanimation-dark.zip!/" />
+      <root url="jar://$PROJECT_DIR$/template/assets/media/bootanimation.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
